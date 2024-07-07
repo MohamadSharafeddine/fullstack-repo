@@ -9,6 +9,6 @@ Steps:
 8- CD in fullstack-repo to submodule repo (depending on where you did changes)
 9- git fetch origin
 10- git pull origin main
-11- CD to fullstack-repo
+11- CD back to fullstack-repo
 12- git submodule update --remote
 13- git add., commit, and push
